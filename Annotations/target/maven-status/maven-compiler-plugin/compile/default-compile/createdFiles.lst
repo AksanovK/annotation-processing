@@ -1,0 +1,7 @@
+Input.class
+User.class
+HtmlForm.class
+Form.class
+HtmlInput.class
+META-INF\services\javax.annotation.processing.Processor
+HtmlProcessor.class
